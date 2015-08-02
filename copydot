@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo ""
+echo "Copying Files...."
+
+echo 'cp -f /GitHub/dotfiles/.bash_profile ~/.bash_profile'
+cp -f /Users/garyperrigo/GitHub/dotfiles/.bash_profile ~/.bash_profile
+
+echo 'cp /Users/garyperrigo/GitHub/dotfiles/.bashconfigs/bashalias /Users/garyperrigo/.bashconfigs/bashalias'
+cp /Users/garyperrigo/GitHub/dotfiles/.bashconfigs/bashalias /Users/garyperrigo/.bashconfigs/bashalias
+
+echo ""

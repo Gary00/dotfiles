@@ -1,0 +1,9 @@
+# bash copy
+alias copydot='bash ~/GitHub/dotfiles/copydot'
+
+# program alias
+alias ls='gls --color'
+alias grep='grep --color'
+
+# bash alias
+alias reload='source ~/.bash_profile'
