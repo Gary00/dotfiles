@@ -1,5 +1,5 @@
 # bash copy
-alias copydot='bash ~/GitHub/dotfiles/copydot'
+alias rundot='bash ~/GitHub/dotfiles/rundot'
 
 # program alias
 alias ls='gls --color'
