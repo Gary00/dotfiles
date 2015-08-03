@@ -4,9 +4,10 @@
 * Run 'bash ~/GitHub/dotfiles/copydot'
 
 ## Modifying File
-* Modify file in dotfiles
-* type 'copydot'
-* type 'reload' 
+* Modify/Add file in dotfiles
+* type 'rundot' to run configurations
 
 ## Adding File
-
+* Add changes to rundot script such as
+  * Copying configuration files
+  * Running bash scripts 
