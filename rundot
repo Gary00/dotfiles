@@ -1,12 +1,14 @@
 #!/bin/bash
 
 echo ""
-echo "Copying Files...."
 
-echo 'cp -f /GitHub/dotfiles/.bash_profile ~/.bash_profile'
+echo "Copying Bash Profile..."
 cp -f /Users/garyperrigo/GitHub/dotfiles/.bash_profile ~/.bash_profile
 
-echo 'cp /Users/garyperrigo/GitHub/dotfiles/.bashconfigs/bashalias /Users/garyperrigo/.bashconfigs/bashalias'
+echo "Copying Bash Alias Files..."
 cp /Users/garyperrigo/GitHub/dotfiles/.bashconfigs/bashalias /Users/garyperrigo/.bashconfigs/bashalias
+
+echo "Executing OSX Config Files..."
+bash ~/GitHub/dotfiles/.osx
 
 echo ""

@@ -1,10 +1,12 @@
-#README
 
 ## Setup
 * Clone this directory to ~/GitHub/dotfiles/
 * Run 'bash ~/GitHub/dotfiles/copydot'
 
-## Usage
+## Modifying File
 * Modify file in dotfiles
 * type 'copydot'
 * type 'reload' 
+
+## Adding File
+
