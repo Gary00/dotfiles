@@ -1,0 +1,16 @@
+
+#dotfiles version
+
+"*":
+  "exception-reporting":
+    userId: "37aa6fc6-3a64-8db8-4520-9abd3e3ac37e"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+    fontSize: 12
+  "terminal-status": {}
+  "git-plus": {}
+  "git-projects":
+    rootPath: "/Users/garyperrigo/GitHub"
