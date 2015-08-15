@@ -11,4 +11,7 @@ cp /Users/garyperrigo/GitHub/dotfiles/.bashconfigs/bashalias /Users/garyperrigo/
 echo "Executing OSX Config Files..."
 bash ~/GitHub/dotfiles/.osx
 
+echo "Copying Screen Config..."
+cp ~/GitHub/dotfiles/.screenrc ~/
+
 echo ""
