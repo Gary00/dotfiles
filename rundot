@@ -4,6 +4,7 @@ echo ""
 
 echo "Copying Bash Profile..."
 cp -f /Users/garyperrigo/GitHub/dotfiles/.bash_profile ~/.bash_profile
+cp -f ~/Github/dotfiles/.bash_profile ~/.bashrc
 
 echo "Copying Bash Alias Files..."
 cp /Users/garyperrigo/GitHub/dotfiles/.bashconfigs/bashalias /Users/garyperrigo/.bashconfigs/bashalias
