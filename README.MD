@@ -1,6 +1,6 @@
 
 ## Setup
-* Clone this directory to ~/GitHub/dotfiles/
+* Clone this directory to ~/GitHub/rundot/
 * Run 'bash ~/GitHub/dotfiles/copydot'
 
 ## Modifying File
@@ -10,4 +10,4 @@
 ## Adding File
 * Add changes to rundot script such as
   * Copying configuration files
-  * Running bash scripts 
+  * Running bash scripts

@@ -7,3 +7,6 @@ alias grep='grep --color'
 
 # bash alias
 alias reload='source ~/.bash_profile'
+
+# elk stack
+alias elk='ssh -i /Users/garyperrigo/.ssh/NewELK.pem'
