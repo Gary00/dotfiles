@@ -18,4 +18,7 @@ cp ~/GitHub/dotfiles/.screenrc ~/
 echo "Copying Atom Config.."
 cp -R ~/GitHub/dotfiles/.atom ~/
 
+echo "Reloading Bash.."
+source ~/.bash_profile
+
 echo ""
